@@ -18,7 +18,7 @@
 - Clone the repository
 
 ```
-git clone https://github.com/TienNLN/voice-api
+git clone https://github.com/LeDuyTuanVu/FIDOU_BE.git
 ```
 
 - Go to ./VoiceAPI folder, run the project in development
